@@ -17,10 +17,10 @@ The solution is found using the **backtracking algorithm**. <br>When some cell i
 Input:
 <br>This will take a 9 x 9 matrix as Sudoku grid. Some values are placed in the grid. The blank spaces are denoted by 0.
 
-![sudoku-img](images/sudoku-img.jpg)
+![sudoku-img](/images/sudoku-img.jpg)
 
 Output:
 <br>The final matrix (Sudoku grid) filled with numbers. If the solution does not exist, it will return false.
 
-![sudoku-img-1](images/sudoku-img-1.png)
+![sudoku-img-1](/images/sudoku-img-1.png)
 
