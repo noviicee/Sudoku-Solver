@@ -1,3 +1,3 @@
-# Community Template Repo
+# Sudoku-Solver
 
-Template repo with docs and GitHub Actions etc, to create other projects.
+Provide the unsolved grid of Sudoku as an input, and receive the grid after solved as output.
