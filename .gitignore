@@ -2,7 +2,7 @@
 
 .github/
 # images/
-Sudoku-Solver/CodeBase/algo.cpp
+./CodeBase/algo.cpp
 
 # temporary files which can be created if a process still has a handle open of a deleted file
 .fuse_hidden*
