@@ -24,3 +24,5 @@ Output:
 
 ![sudoku-img-1](/images/sudoku-img-1.png)
 
+-----
+
